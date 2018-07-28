@@ -24,7 +24,7 @@ GEN_DOCS=false
 DOCS_FORMAT="html,index.html"
 LINT=false
 LINT_CHECKS=""
-SUPPORTED_LANGUAGES=("go" "ruby" "csharp" "java" "python" "objc" "gogo" "php" "node")
+SUPPORTED_LANGUAGES=("go" "ruby" "csharp" "java" "python" "objc" "gogo" "php" "node" "cpp")
 EXTRA_INCLUDES=""
 OUT_DIR=""
 

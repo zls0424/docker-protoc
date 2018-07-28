@@ -1,6 +1,6 @@
 
-DOCKER_REPO ?=
-NAMESPACE ?= namely
+DOCKER_REPO ?= 
+NAMESPACE ?= zls0424
 NAME ?= protoc-all
 TAG ?= 1.13
 CONTAINER = $(DOCKER_REPO)$(NAMESPACE)/$(NAME):$(TAG)
